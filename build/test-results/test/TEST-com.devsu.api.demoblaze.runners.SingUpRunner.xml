@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.devsu.api.demoblaze.runners.SingUpRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="MBPdeSopmicro01-4" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+2 Scenarios (?[32m2 passed?[0m)
+9 Steps (?[32m9 passed?[0m)
+0m1.242s
+
+
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///Users/mario.benitez/github/Challenges%20Devsu/devsu_api_demoblaze_selenium_screenplay/src/test/resources/features/singup.feature
+[Test worker] INFO  - Test Suite Started: Sing up in the platform
+]]></system-err>
+</testsuite>

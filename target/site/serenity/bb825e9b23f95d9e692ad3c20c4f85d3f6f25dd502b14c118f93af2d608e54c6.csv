@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Sing up in the platform","Create new user successfully","SUCCESS","2023-05-06T02:49:45.918435-05:00[America/Bogota]","0.0","0.45"
+"Sing up in the platform","Create existing user","SUCCESS","2023-05-06T02:49:46.378073-05:00[America/Bogota]","0.0","0.73"
