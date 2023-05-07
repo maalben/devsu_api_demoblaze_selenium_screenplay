@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.devsu.api.demoblaze.runners.SingInRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="MBPdeSopmicro01-4" time="0.0">
+<testsuite name="com.devsu.api.demoblaze.runners.SingInRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="MBPdeSopmicro01-5" time="0.0">
   <properties/>
   <system-out><![CDATA[
 2 Scenarios (?[32m2 passed?[0m)
 9 Steps (?[32m9 passed?[0m)
-0m1.164s
+0m1.260s
 
 
 ]]></system-out>
