@@ -1,0 +1,17 @@
+Conclusiones
+
+Como servicio de pruebas, es entendible encontrar muchos hallazgos, por el cual, si esto estuviera en producción sería incidente para el negocio por lo que infiere la dependencia que esto causa en los datos.
+
+Algunos de los hallazgos funcionales se identifica:
+
+- El servicio de registro, cuando es exitoso el proceso no genera un body.
+
+- El token de login es el mismo para cualquier usuario.
+
+- No se tiene algún header con seguridad.
+
+
+Lo anterior son ALGUNOS hallazgos mas relevantes, sin embargo, para algo que si fuera a producción se debe tener en cuenta contemplar los requerimiento funcionales del negocio.
+
+
+A nivel de experiencia de la prueba, puedo resaltar que se usó selenium y el patrón de automatización de Screenplay Pattern, esto se debió a que Screenplay propicia la buena práctica de codificación de pruebas ya que basa lleva a la práctica los principios SOLID de una manera representativa. Hay que tener en cuenta que selenium puro es bueno para automatizar, tal como se hizo en el reto asignado, sin embargo, es bueno añadirle otras herramientas como Serenity, Gherkin, Cucumber, entre otras.

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Sing in in the platform" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-06T07:49:29" hostname="MBPdeSopmicro01-4" time="15.847">
+<testsuite name="Sing in in the platform" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-07T03:39:17" hostname="MBPdeSopmicro01-5" time="17.55">
   <properties/>
-  <testcase name="Login user successfully" classname="Sing in in the platform" time="9.15"/>
-  <testcase name="Login user failed" classname="Sing in in the platform" time="1.985"/>
-  <testcase name="Login user successfully" classname="Sing in in the platform" time="0.574"/>
-  <testcase name="Login user failed" classname="Sing in in the platform" time="0.575"/>
+  <testcase name="Login user successfully" classname="Sing in in the platform" time="9.597"/>
+  <testcase name="Login user failed" classname="Sing in in the platform" time="2.309"/>
+  <testcase name="Login user successfully" classname="Sing in in the platform" time="0.669"/>
+  <testcase name="Login user failed" classname="Sing in in the platform" time="0.578"/>
   <system-out><![CDATA[Step argument class io.cucumber.core.gherkin.messages.GherkinMessagesDataTableArgument
 Step argument class io.cucumber.core.gherkin.messages.GherkinMessagesDataTableArgument
 Step argument class io.cucumber.core.gherkin.messages.GherkinMessagesDataTableArgument
